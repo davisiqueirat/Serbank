@@ -1,13 +1,1 @@
-Integrantes :
-Eduardo Philype Vicente Ferreira - 01593636
-
-Rafael José Ferreira do Nascimento - 01802960
-
-Davi Siqueira de Carvalho Torres - 01633448
-
-Lucas Thiago Gomes Ferreira - 01735884
-
-Pedro Victor Gomes de Almeida Costa - 01260313
-
-Jhullia de Souza Valentim Pontes  - 01705848
-Maria Fernanda da Silva  - 01515175
+Apresentamos o desenvolvimento parcial de um aplicativo bancário fictício denominado SerBank, construído com o objetivo de simular operações básicas de um sistema financeiro digital. O projeto foi elaborado para fins educacionais na disciplina de Arquitetura de Software, a fim de promover a aplicação prática de conceitos de design, modelagem e organização arquitetural de sistemas.
