@@ -1,1 +1,1 @@
-Apresentamos o desenvolvimento parcial de um aplicativo bancário fictício denominado SerBank, construído com o objetivo de simular operações básicas de um sistema financeiro digital. O projeto foi elaborado para fins educacionais na disciplina de Arquitetura de Software, a fim de promover a aplicação prática de conceitos de design, modelagem e organização arquitetural de sistemas.
+
